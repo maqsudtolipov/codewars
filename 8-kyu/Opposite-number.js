@@ -2,4 +2,6 @@ function opposite(number) {
   return number * -1;
 }
 
-opposite(1);
+// test
+console.log(opposite(1));
+
